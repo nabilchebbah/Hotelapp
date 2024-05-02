@@ -11,7 +11,7 @@ Cette application vous permet de rechercher des hôtels, de consulter les détai
 
 ## Captures d'écran
 
-![Capture d'écran de l'application](flutter logo.png)
+![Capture d'écran de l'application](/flutterlogo.png)
 ![Capture d'écran 2](screenshots/screenshot2.png)
 
 ## Fonctionnalités
