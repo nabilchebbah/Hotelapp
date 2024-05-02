@@ -1,2 +1,2 @@
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/nabilchebbah/Hotelapp/blob/main/tools.svg#gh-light-mode-only" />
 </a>
